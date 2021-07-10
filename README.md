@@ -11,6 +11,6 @@ $ npm install
 ```sh
 $ npm start
 # Or run with Nodemon
-$ npm run dev
+$ node app.js
 # Visit http://localhost:3000
 ```
